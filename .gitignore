@@ -1,0 +1,15 @@
+.vagrant
+Berksfile.lock
+Gemfile.lock
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+/cookbooks
+.chef
+ssh_config
+nodes/*
+!nodes/*_json
+!nodes/*m002.json
